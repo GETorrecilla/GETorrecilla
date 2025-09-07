@@ -42,3 +42,7 @@ Estamos trabajando en ello...
 
 - Email: esthertorrecilla98@gmail.com
 - LinkedIn: https://www.linkedin.com/in/gracielae-torresillas
+
+
+![Visitas al perfil](https://komarev.com/ghpvc/?username=GETorrecilla&color=blue)
+
