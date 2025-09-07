@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 ¡Hola! Soy Graciela. 🙋‍♀️
+# 👋🏽 ¡Hola! Soy Graciela. 🙋🏽‍♀️
 
 Por ahora, una futura desarrolladora; quiero que me identifiquen por ser apasionada por la tecnología, la resolución de problemas y el aprendizaje constante.
 
