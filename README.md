@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **GETorrecilla/GETorrecilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 ¡Hola! Soy Graciela. 🙋‍♀️
+
+Por ahora, una futura un(a) desarrolladora; quiero que me identifiquen por ser apasionada por la tecnología, la resolución de problemas y el aprendizaje constante.
+
+## 🚀 Tecnologías que uso
+
+- 🧠 Lenguajes: Java, Python, HTML, CSS
+- 🔧 Herramientas: Git, VSCode, Node.js, React, Eclipse
+- 🌱 Actualmente aprendiendo: JavaScript
+  
+## 📂 Mis proyectos
+Aqui encontrarás los proyectos que ire realizando a modo de práctica para lograr un nivel avanzado.
+
+| Proyecto | Descripción | Tecnologías |
+|---------|-------------|-------------|
+Estamos trabajando en ello...
+<!--| [AppNotas](https://github.com/tuusuario/app-notas) | Una app para tomar notas con login y base de datos | React, Firebase |
+| [Clon Google](https://github.com/tuusuario/google-clone) | Clon del buscador de Google | HTML, CSS, JS |
+| [ToDo App](https://github.com/tuusuario/todo-app) | Lista de tareas con filtros y persistencia | JS Vanilla |
+-->
+## 🧠 Sobre mí
+
+- 🧩 Me encanta resolver problemas de lógica
+- 📚 Siempre estoy aprendiendo algo nuevo
+- 🎯 Mi meta: trabajar en proyectos que impacten positivamente
+
+## 📫 Cómo contactarme
+
+- Email: esthertorrecilla98@gmail.com
+- LinkedIn: https://www.linkedin.com/in/gracielae-torresillas
