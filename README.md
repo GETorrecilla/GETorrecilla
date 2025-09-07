@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 -->
 # 👋 ¡Hola! Soy Graciela. 🙋‍♀️
 
-Por ahora, una futura un(a) desarrolladora; quiero que me identifiquen por ser apasionada por la tecnología, la resolución de problemas y el aprendizaje constante.
+Por ahora, una futura desarrolladora; quiero que me identifiquen por ser apasionada por la tecnología, la resolución de problemas y el aprendizaje constante.
 
 ## 🚀 Tecnologías que uso
 
 - 🧠 Lenguajes: Java, Python, HTML, CSS
-- 🔧 Herramientas: Git, VSCode, Node.js, React, Eclipse
-- 🌱 Actualmente aprendiendo: JavaScript
+- 🔧 Herramientas: Git, VSCode, Eclipse
+- 🌱 Actualmente aprendiendo: JavaScript - REACT, y afianzando los conocimientos previamente adquiridos.
   
 ## 📂 Mis proyectos
 Aqui encontrarás los proyectos que ire realizando a modo de práctica para lograr un nivel avanzado.
