@@ -27,8 +27,7 @@ Aqui encontrarás los proyectos que ire realizando a modo de práctica para logr
 
 | Proyecto | Descripción | Tecnologías |
 |---------|-------------|-------------|
-|[Sistema de Recursos Humanos Backend](https://github.com/GETorrecilla/recursos-humanos-backend) /
-[Sistema de Recursos Humanos Frontend](https://github.com/GETorrecilla/recursos-humanos-frontend) | Sistema para la administración de recursos humanos|Spring Boot Test, Junit, Mockito, React, Bootstrap|
+|[Sistema de Recursos Humanos Backend](https://github.com/GETorrecilla/recursos-humanos-backend) / [Sistema de Recursos Humanos Frontend](https://github.com/GETorrecilla/recursos-humanos-frontend) | Sistema para la administración de recursos humanos|Spring Boot Test, Junit, Mockito, React, Bootstrap|
 Estamos trabajando en ello...
 <!--| [AppNotas](https://github.com/tuusuario/app-notas) | Una app para tomar notas con login y base de datos | React, Firebase |
 | [Clon Google](https://github.com/tuusuario/google-clone) | Clon del buscador de Google | HTML, CSS, JS |
